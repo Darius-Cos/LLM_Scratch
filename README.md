@@ -178,10 +178,6 @@ This project was built as a step-by-step exploration of:
 - Experiment with learning-rate scheduling, different context sizes and model depths.
 - Implement temperature/top-k sampling and key/value caching for generation.
 
-## Inspiration and credits
-
-Inspired by [Andrej Karpathy's *Let's build GPT: from scratch, in code, spelled out*](https://www.youtube.com/watch?v=kCc8FmEb1nY) and the [tiny Shakespeare dataset](https://github.com/karpathy/char-rnn/tree/master/data/tinyshakespeare).
-
 **Author:** [Darius-Cos](https://github.com/Darius-Cos)
 
 ---
